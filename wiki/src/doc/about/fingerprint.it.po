@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-01-12 22:25+0100\n"
-"PO-Revision-Date: 2017-07-09 14:31+0000\n"
+"PO-Revision-Date: 2017-09-26 00:48+0000\n"
 "Last-Translator: \n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -21,15 +21,16 @@ msgstr ""
 msgid "[[!meta title=\"Can I hide the fact that I am using Tails?\"]]\n"
 msgstr "[[!meta title=\"Posso nascondere il fatto che uso Tails?\"]]\n"
 
+# Fingerprint si può tradurre con impronta.
 #. type: Plain text
 msgid ""
 "In this context, the term fingerprint refers to what is specific to Tails in "
 "the way it behaves on Internet. This can be used to determine whether a "
 "particular user is using Tails or not."
 msgstr ""
-"In questo contesto, il termine fingerprint si riferisce al fatto di come "
-"Tails si comporta in Internet. Questo può essere usato per determinare se un "
-"particolare utente stia usando Tails oppure no"
+"In questo contesto, il termine fingerprint si riferisce al modo specifico in "
+"cui Tails si comporta in Internet. Questo può essere usato per determinare "
+"se un particolare utente stia usando Tails oppure no."
 
 #. type: Plain text
 #, no-wrap
@@ -46,8 +47,8 @@ msgstr ""
 "è possibile sapere che stai usando TOR. Ma Tails cerca di \n"
 "**rendere più difficile possibile distinguere tra un utente Tails e un'altro utente Tor**,\n"
 "in particolare per gli utenti di <span class=\"application\">Tor Browser</span> esterni a Tails.\n"
-"Se è possibile determinare quando sei un utente di  <span class=\"application\">Tor Browser</span> all'interno o all'esterno\n"
-"di Tails, provoca il fatto che saranno disponibili maggiori informazioni sulla tua identità riducendo il anonimato. \n"
+"Se è possibile determinare che tu sia un utente di  <span class=\"application\">Tor Browser</span> all'interno o all'esterno\n"
+"di Tails, questo comporta che siano disponibili maggiori informazioni sulla tua identità, riducendo di conseguenza il tuo anonimato. \n"
 
 #. type: Plain text
 msgid ""
@@ -55,7 +56,7 @@ msgid ""
 "this could be used to identify you as a Tails user."
 msgstr ""
 "Questa sezione spiega alcuni problemi riguardo il fingerprint di Tails e "
-"come esso può essere usato per identificarti come utente di Tails"
+"come esso può essere usato per identificarti come utente di Tails."
 
 #. type: Title =
 #, no-wrap
@@ -70,8 +71,8 @@ msgid ""
 msgstr ""
 "Il sito web che visiti può ottenere molte informazioni sul tuo browser. Le "
 "informazioni possono includere il suo nome e la sua versione, la grandezza "
-"della finestra, la lista delle estensioni, la timezone, i font disponibili "
-"etc."
+"della finestra, la lista delle estensioni disponibili, la zona oraria, i "
+"font disponibili etc."
 
 #. type: Plain text
 #, no-wrap
@@ -93,7 +94,7 @@ msgid ""
 msgstr ""
 "Vedere la  [[sezione contenente i problemi relativi alle fingerprint|support/known_issues#fingerprint]]\n"
 "per una lista di differenze note tra le fingerprint presenti sul <span class=\"application\">Tor Browser</span>\n"
-"internamente o fuori Tails.\n"
+"all'interno o fuori Tails.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -102,8 +103,8 @@ msgid ""
 "specific to Tails**. More sophisticated\n"
 "attacks can use those differences to distinguish Tails users.\n"
 msgstr ""
-"Apparte quello, ** alcune estensioni di <span class=\"application\">Tor Browser</span> incluse in Tails sono \n"
-"specifiche di Tails**. Attacchi più sofisticati possono utilizzare quelle differenze per riconoscere gli utenti Tails.\n"
+"A parte quello, ** alcune estensioni di <span class=\"application\">Tor Browser</span> incluse in Tails sono \n"
+"specifiche di Tails**. Attacchi più sofisticati possono utilizzare quelle differenze per distinguere gli utenti Tails.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -115,7 +116,7 @@ msgid ""
 msgstr ""
 "Per esempio, Tails include<span class=\"application\">uBlock\n"
 "Origin</span> che rimuove le pubblicità. Se un attaccante può determinare\n"
-"che non stai scaricando le pubblicità incluse in una pagina web, ciò potrebbe aiutare\n"
+"che non stai scaricando le pubblicità incluse in una pagina web, questo potrebbe aiutare\n"
 "ad identificarti come utente Tails\n"
 
 #. type: Plain text
@@ -125,8 +126,8 @@ msgid ""
 "regarding the fingerprint of the [[<span class=\"application\">Unsafe\n"
 "Browser</span>|doc/anonymous_internet/unsafe_browser]]**.\n"
 msgstr ""
-"Per il momento, dovresti considerare che **nessuna cura particolare è\n"
-"stata presa riguardo alle fingerprint del [[<span class=\"application\">Browser Insicuro\n"
+"Per il momento, dovresti considerare che **nessuna attenzione particolare è\n"
+"stata riservata alle fingerprint relative al [[<span class=\"application\">Browser Insicuro\n"
 "</span>|doc/anonymous_internet/unsafe_browser]]**\n"
 
 #. type: Title =
@@ -198,5 +199,5 @@ msgstr ""
 "sia accurato. Facendo questo, se l'orario è impostato troppo distante nel "
 "passato o nel futuro, Tor viene spento e fatto ripartire. Questo "
 "comportamento\n"
-"può essere usato per riconoscere un utente Tails, specialmente quando questo "
-"comportamento avviene ad ogni avvio di Tails."
+"può essere usato per riconoscere un utente Tails, specialmente dato che "
+"questo comportamento avviene ad ogni avvio di Tails."
