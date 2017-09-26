@@ -7,14 +7,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: revisione ignifugo\n"
 "POT-Creation-Date: 2017-08-05 14:00+0200\n"
-"PO-Revision-Date: 2016-07-14 13:07+0200\n"
+"PO-Revision-Date: 2017-09-26 00:36+0000\n"
 "Last-Translator: \n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. type: Plain text
 #, no-wrap
@@ -52,32 +52,7 @@ msgid "Networking\n"
 msgstr "Connessioni\n"
 
 #. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "* [Tor](https://www.torproject.org) with:\n"
-#| "  - [[stream isolation|contribute/design/stream_isolation]]\n"
-#| "  - regular, obfs2, obfs3, obfs4, and ScrambleSuit bridges support\n"
-#| "* [NetworkManager](http://projects.gnome.org/NetworkManager/) for easy\n"
-#| "  network configuration ([[More...|doc/anonymous_internet/networkmanager]])\n"
-#| "* [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) ([[More...|doc/anonymous_internet/Tor_Browser]]), a web\n"
-#| "  browser based on [Mozilla Firefox](http://getfirefox.com) and modified to protect your anonymity with:\n"
-#| "  - [Torbutton](https://www.torproject.org/torbutton) for anonymity\n"
-#| "    and protection against evil JavaScript\n"
-#| "  - all cookies are treated as session cookies by default;\n"
-#| "  - [HTTPS Everywhere](https://www.eff.org/https-everywhere)\n"
-#| "    transparently enables SSL-encrypted connections to a great number\n"
-#| "    of major websites\n"
-#| "  - [NoScript](http://noscript.net/) to have even more control over JavaScript.\n"
-#| "  - [AdBlock Plus](https://adblockplus.org/en/firefox) to remove advertisements.\n"
-#| "* [Pidgin](http://www.pidgin.im/) preconfigured with\n"
-#| "  [OTR](http://www.cypherpunks.ca/otr/index.php) for Off-the-Record\n"
-#| "  Messaging ([[More...|doc/anonymous_internet/pidgin]])\n"
-#| "* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) email client with [Enigmail](https://www.enigmail.net/) for OpenPGP support ([[More...|doc/anonymous_internet/thunderbird]])\n"
-#| "* [Liferea](http://liferea.sourceforge.net/) feed aggregator\n"
-#| "* [Gobby](http://gobby.0x539.de/trac/) for collaborative text writing\n"
-#| "* [Aircrack-ng](http://aircrack-ng.org/) for wireless network auditing\n"
-#| "* [I2P](https://geti2p.net/) an anonymizing network ([[More...|doc/anonymous_internet/i2p]])\n"
-#| "* [Electrum](https://electrum.org/), an easy-to-use bitcoin client ([[More...|doc/anonymous_internet/electrum]])\n"
+#, no-wrap
 msgid ""
 "* [Tor](https://www.torproject.org) with:\n"
 "  - [[stream isolation|contribute/design/stream_isolation]]\n"
@@ -106,7 +81,7 @@ msgid ""
 "* [Electrum](https://electrum.org/), an easy-to-use bitcoin client ([[More...|doc/anonymous_internet/electrum]])\n"
 msgstr ""
 "* [Tor](https://www.torproject.org) con:\n"
-"  - [[stream isolation|contribute/design/stream_isolation]]\n"
+"  - [[isolazione del flusso dati|contribute/design/stream_isolation]]\n"
 "  - regular, obfs2, obfs3, obfs4, e supporto a ScrambleSuit bridges \n"
 "* [NetworkManager](http://projects.gnome.org/NetworkManager/) per una facile\n"
 " configurazione delle reti ([[More...|doc/anonymous_internet/networkmanager]])\n"
@@ -114,19 +89,19 @@ msgstr ""
 "  browser basato su [Mozilla Firefox](http://getfirefox.com) e modificato per proteggere il tuo anonimato con:\n"
 "  - [Torbutton](https://www.torproject.org/torbutton) per l'anonimato \n"
 "    e protezione contro il JavaScript malevolo\n"
-"  - tutti i cookie sono trattati come cookye di sessione per default;\n"
+"  - tutti i cookie sono trattati come cookie di sessione per default;\n"
 "  - [HTTPS Everywhere](https://www.eff.org/https-everywhere)\n"
-"    rende attiva in maniera trasparente la connessione cifrata SSL  in nella maggior parte dei \n"
+"    rende attiva in maniera trasparente la connessione cifrata SSL nella maggior parte dei \n"
 "    dei siti web\n"
 "  - [NoScript](http://noscript.net/) per avere più controllo su JavaScript.\n"
 "  - [AdBlock Plus](https://adblockplus.org/en/firefox) per rimuovere la pubblicità.\n"
 "* [Pidgin](http://www.pidgin.im/) preconfigurato con\n"
 "  [OTR](http://www.cypherpunks.ca/otr/index.php) per messaggistica Off-the-Record\n"
 "  ([[More...|doc/anonymous_internet/pidgin]])\n"
-"* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) client email con [Enigmail](https://www.enigmail.net/) per il supporto a OpenPGP ([[More...|doc/anonymous_internet/thunderbird]])\n"
+"* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) client email con [Enigmail](https://www.enigmail.net/) per il supporto di OpenPGP ([[More...|doc/anonymous_internet/thunderbird]])\n"
 "* [Liferea](http://liferea.sourceforge.net/) aggregatore feed \n"
 "* [Gobby](http://gobby.0x539.de/trac/) per la scrittura di testi collaborativi\n"
-"* [Aircrack-ng](http://aircrack-ng.org/) per l'ascolto di network wireless\n"
+"* [Aircrack-ng](http://aircrack-ng.org/) per l'ascolto di reti wireless\n"
 "* [I2P](https://geti2p.net/) un network anonimizzatore ([[More...|doc/anonymous_internet/i2p]])\n"
 "* [Electrum](https://electrum.org/), un client bitcoin facile da usare ([[More...|doc/anonymous_internet/electrum]])\n"
 
@@ -188,7 +163,7 @@ msgstr ""
 
 #. type: Bullet: '* '
 msgid "[Poedit](https://poedit.net/) to edit .po files"
-msgstr "[Poedit](https://poedit.net/) per editare i file .po"
+msgstr "[Poedit](https://poedit.net/) per modificare i file .po"
 
 #. type: Bullet: '* '
 msgid ""
@@ -213,7 +188,7 @@ msgstr ""
 msgid ""
 "[Traverso](http://traverso-daw.org/) a multi-track audio recorder and editor"
 msgstr ""
-"[Traverso](http://traverso-daw.org/) un registratore multitraccia ed editor"
+"[Traverso](http://traverso-daw.org/) un editor e registratore multitraccia"
 
 #. type: Title -
 #, no-wrap
@@ -236,7 +211,7 @@ msgid ""
 "data encyption and signing"
 msgstr ""
 "[GnuPG](http://gnupg.org/), l'implementazione GNU di OpenPGP per le email, "
-"la cifratura e la firma dei dati"
+"la cifratura e la firma elettronica dei dati"
 
 #. type: Bullet: '* '
 msgid ""
@@ -275,7 +250,7 @@ msgstr ""
 
 #. type: Bullet: '* '
 msgid "[MAT](https://mat.boum.org/) to anonymize metadata in files"
-msgstr "[MAT](https://mat.boum.org/) per rendere anonimi i metadata nei file "
+msgstr "[MAT](https://mat.boum.org/) per rendere anonimi i metadati nei file "
 
 #. type: Bullet: '* '
 msgid ""
@@ -299,7 +274,7 @@ msgid ""
 "shared through Git ([[More...|doc/encryption_and_privacy/keyringer]])"
 msgstr ""
 "[Keyringer](https://keyringer.pw/), uno strumento da riga di comando per "
-"scambiare segreti attraverso Git([[Plus d'information...|doc/"
+"scambiare chiavi segrete attraverso Git([[Plus d'information...|doc/"
 "encryption_and_privacy/keyringer]])"
 
 #. type: Bullet: '* '
@@ -313,19 +288,14 @@ msgstr ""
 "foglio di carta ([[Plus d'information...|doc/advanced_topics/paperkey]])"
 
 #. type: Plain text
-#, fuzzy
-#| msgid ""
-#| "The full packages list can be found in the [BitTorrent files download "
-#| "directory](/torrents/files/) (look for files with the `.packages` "
-#| "extension)."
 msgid ""
 "The full packages list can be found in the [BitTorrent files download "
 "directory](https://tails.boum.org/torrents/files/) (look for files with the "
 "`.packages` extension)."
 msgstr ""
-"La lista completa dei pacchetti che si possono trovare nella [cartella di "
-"scaricamento dei file BitTorrent](/torrents/files/)(/torrents/files/) "
-"(guarda per i file con l'estensione '.packages')"
+"La lista completa dei pacchetti si può  trovare nella [cartella di "
+"scaricamento dei file BitTorrent](/torrents/files/)(/torrents/files/) (cerca "
+"i file con l'estensione '.packages')"
 
 #. type: Title =
 #, no-wrap
@@ -340,7 +310,7 @@ msgid ""
 msgstr ""
 "Tu puoi [[installare software aggiuntivo|doc/advanced_topics/"
 "additional_software]] in Tails: tutti i pacchetti software per Debian si "
-"possono installare in Tails"
+"possono installare in Tails."
 
 #. type: Title =
 #, no-wrap
@@ -348,25 +318,21 @@ msgid "Additional features\n"
 msgstr "Caratteristiche aggiuntive\n"
 
 #. type: Bullet: '* '
-#, fuzzy
-#| msgid ""
-#| "automatic mechanism to [[upgrade a USB stick or a SD card|doc/first_steps/"
-#| "upgrade]] to newer versions"
 msgid ""
 "automatic mechanism to [[upgrade a USB stick|doc/first_steps/upgrade]] to "
 "newer versions"
 msgstr ""
-"meccanismo automatico per [[aggiornare una chiavetta USB o una scheda SD|doc/"
-"first_steps/upgrade]] ad una nuova versione"
+"meccanismo automatico per [[aggiornare una chiavetta USB|doc/first_steps/"
+"upgrade]] alle nuove versioni"
 
 #. type: Bullet: '* '
 msgid ""
 "can be run as a virtualized guest inside [VirtualBox](http://www.virtualbox."
 "org/) ([[More...|doc/advanced_topics/virtualization]])"
 msgstr ""
-"può essere eseguito come un utente virtualizzato [VirtualBox](http://www."
-"virtualbox.org/) ([[Maggiori informazioni...|doc/advanced_topics/"
-"virtualization]])"
+"può essere eseguito come una macchina ospite virtualizzata all'interno "
+"[VirtualBox](http://www.virtualbox.org/) ([[Maggiori informazioni...|doc/"
+"advanced_topics/virtualization]])"
 
 #. type: Bullet: '* '
 msgid ""
@@ -400,17 +366,13 @@ msgstr ""
 "con AppArmor"
 
 #. type: Bullet: '* '
-#, fuzzy
-#| msgid ""
-#| "To prevent cold-boot attacks and various memory forensics, Tails erases "
-#| "memory on shutdown and when the boot media is physically removed."
 msgid ""
 "To prevent cold-boot attacks and various memory forensics, Tails erases most "
 "memory on shutdown and when the boot media is physically removed."
 msgstr ""
-"Per prevenire attacchi \"cold-boot\" e altre ispezioni alla memoria, Tails "
-"cancella la memoria allo spegnimento e quando il supporto di avvio è "
-"fisicamente staccato"
+"Per prevenire attacchi \"cold-boot\" e altre tecniche di analisi forensi "
+"sulla memoria, Tails cancella la memoria allo spegnimento quando il supporto "
+"di avvio viene rimosso fisicamente."
 
 #. type: Title =
 #, no-wrap
@@ -445,18 +407,19 @@ msgid ""
 "supported languages, don't hesitate to [[tell us about it|support]]. E.g. "
 "Tails probably lacks some non-Latin fonts or input systems."
 msgstr ""
-"Alcuni di questi linguaggi non è stato verificato e noi non parliamo tutte "
-"le lingue del mondo. Se trovi alcune imprecisioni usando uno dei linguaggi "
-"presumibilmente supportati, non esitare a [[dircelo|support]]. Per esempio "
-"Tails probabilmente manca di alcuni font non latini o di sistemi di input"
+"Non è stato possibile verificare alcuni di questi linguaggi in modo "
+"minuzioso, dato che non parliamo tutte le lingue del mondo. Se trovi alcune "
+"imprecisioni usando uno dei linguaggi presumibilmente supportati, non "
+"esitare a [[dircelo|support]]. Per esempio Tails probabilmente manca di "
+"alcuni font non latini o di sistemi di input."
 
 #. type: Plain text
 msgid ""
 "If you wish to make it easier to use Tails for your language speakers, see "
 "the [[translators guidelines|contribute/how/translate]]."
 msgstr ""
-"Se vuoi rendere l'uso di Tails più semplice per la tua lingua parlata, vedi "
-"le [[Linee guida per i traduttori|contribute/how/translate]]."
+"Se vuoi rendere l'uso di Tails più semplice per chi parla la tua lingua, "
+"vedi le [[Linee guida per i traduttori|contribute/how/translate]]."
 
 #~ msgid "One can choose at boot time between a big number of languages."
 #~ msgstr ""
