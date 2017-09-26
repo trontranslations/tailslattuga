@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-10-26 16:26+0300\n"
-"PO-Revision-Date: 2017-07-09 15:16+0000\n"
+"PO-Revision-Date: 2017-09-26 01:06+0000\n"
 "Last-Translator: \n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -23,7 +23,7 @@ msgstr "[[!meta title=\"Chiavi OpenPGP\"]]\n"
 
 #. type: Plain text
 msgid "Tails developers maintain several OpenPGP key pairs."
-msgstr "Gli sviluppatori di Tails mantengono diverse coppie di chiavi OpenPGP"
+msgstr "Gli sviluppatori di Tails mantengono diverse coppie di chiavi OpenPGP."
 
 #. type: Plain text
 #, no-wrap
@@ -31,13 +31,13 @@ msgid "<div class=\"caution\">\n"
 msgstr "<div class=\"caution\">\n"
 
 #. type: Plain text
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "<p>Make sure to verify the keys that you download, because there are\n"
 "several fake and maybe malicious Tails keys on the key servers.</p>\n"
 msgstr ""
 "Assicurati di verificare le chiavi scaricate, poiché esistono\n"
-"diverse chiavi false e probabilmente Tails malevoli sui server chiave.\n"
+"diverse chiavi Tails false e probabilmente malevole sui server pubblici che distribuiscono le chiavi.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -68,7 +68,7 @@ msgid "<a id=\"private\"></a>\n"
 msgstr "<a id=\"privato\"></a>\n"
 
 #. type: Title =
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Private mailing list key\n"
 msgstr "Chiave privata della mailing list\n"
 
@@ -139,7 +139,7 @@ msgstr ""
 "Questo significa che le persone che non sono sviluppatori di Tails sono "
 "nella posizione di usare questa chiave segreta. Gli sviluppatori di Tails si "
 "fidano di queste persone al punto da lasciargli seguire la nostra mailing-"
-"list criptata, ma tuttavia: questa coppia di chiavi è controllata in una "
+"list criptata, ma comunque: questa coppia di chiavi è controllata in una "
 "maniera meno sicura della nostra chiave di firma."
 
 #. type: Title -
@@ -179,11 +179,11 @@ msgstr "scaricarla dal sito web: [[!tails_website tails-email.key]]"
 
 #. type: Bullet: '- '
 msgid "fetch it from your favourite keyserver"
-msgstr "prenderla dal nostro keyserver preferito"
+msgstr "Ottienila dal tuo keyserver preferito"
 
 #. type: Bullet: '- '
 msgid "send an email to <tails-sendkey@boum.org>."
-msgstr "mandare una mail a <tails-sendkey@boum.org>."
+msgstr "manda una mail a <tails-sendkey@boum.org>."
 
 #. type: Plain text
 #, no-wrap
@@ -233,7 +233,7 @@ msgid "Primary key"
 msgstr "Chiave primaria"
 
 #. type: Plain text
-#, fuzzy, no-wrap
+#, no-wrap
 msgid ""
 "* Is not owned in a usable format by any single individual. It is\n"
 "  split cryptographically using\n"
@@ -252,18 +252,18 @@ msgid ""
 "* Has a revocation certificate split amongst different people.\n"
 "  See the [[details of the mechanism|signing_key_revocation]].\n"
 msgstr ""
-"* Nessuno individuo le possiede in un formato utilizzabile direttamente. Sono divise\n"
+"* Nessuno individuo la possiede in un formato direttamente utilizzabile. E' divisa\n"
 "  crittograficamente con\n"
 "  [gfshare](http://www.digital-scurf.org/software/libgfshare).\n"
-"* Sono utilizzate solo off-line, esclusivamente in un sistema Tails \"air-gap\" in comunicazione con il mondo esterno\n"
+"* E' solo off-line, esclusivamente in un sistema Tails \"air-gap\" in comunicazione con il mondo esterno\n"
 "  attraverso:\n"
 "  - collegamenti di supporti flash Tails in un altro sistema operativo per installare Tails in primo luogo..\n"
 "  - collegamento di altri supporti rimovibili in un \"Tails air-gapped\" per inviare la\n"
 "    chiave pubblica, gli stub di chiavi segrete, parti del codice master segreto e così via,\n"
 "   al mondo esterno.\n"
 "  - collegamento di altri supporti rimovibili in un \"Tails air-gapped\" per ricevere pacchetti\n"
-"    Debian, chiavi pubbliche e così via, dal mondo esterno.\n"
-"* Scadono in meno di un anno. Noi estenderemo la loro validità \n"
+"    la chiave pubblica e così via, dal mondo esterno.\n"
+"* Scade in meno di un anno. Noi ne estenderemo la validità \n"
 "   fin tanto lo riterremmo ragionevole.\n"
 "* Ha un certificato di revoca suddiviso tra diverse persone.\n"
 "  Vedere i [[dettagli del meccanismo|signing_key_revocation]].\n"
@@ -314,7 +314,7 @@ msgstr "scaricalo dal sito web: [[!tails_website tails-signing.key]]"
 
 #. type: Bullet: '  - '
 msgid "fetch it from your favourite keyserver."
-msgstr "prendila dal tuo keyserver preferito."
+msgstr "Ottienila dal tuo keyserver preferito."
 
 #. type: Plain text
 msgid ""
@@ -381,7 +381,7 @@ msgstr "<a id=\"premi\"></a>\n"
 #. type: Title =
 #, no-wrap
 msgid "Press team key\n"
-msgstr "Chiave del Press team\n"
+msgstr "Chiave del team pubblicazioni\n"
 
 #. type: Bullet: '  - '
 msgid ""
@@ -461,7 +461,8 @@ msgstr "<a id=\"mirrors\"></a>\n"
 msgid ""
 "Mirrors team key\n"
 "===================\n"
-msgstr "Chiavi del Team dei Mirrors\n"
+msgstr ""
+"Chiavi del Team dei Mirrors\n"
 "===================\n"
 
 #. type: Bullet: '  - '
