@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-02-25 15:24+0100\n"
-"PO-Revision-Date: 2017-08-02 15:30+0200\n"
+"PO-Revision-Date: 2017-09-26 01:12+0000\n"
 "Last-Translator: Tails developers <tails@boum.org>\n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it_IT\n"
@@ -26,10 +26,11 @@ msgstr "[[!meta title=\"Perche' Tails usa Tor?\"]]\n"
 msgid "Tails uses Tor because it is the best available anonymity network."
 msgstr "Tails utilizza Tor perché è la migliore rete di anonimato disponibile."
 
+# Enforcement si traduce con applicazione forzata o imposizione.
 #. type: Title =
 #, no-wrap
 msgid "Anonymity enforcement\n"
-msgstr "Raggiungimento dell'anonimato\n"
+msgstr "Imposizione dell'anonimato\n"
 
 #. type: Plain text
 msgid ""
@@ -60,7 +61,7 @@ msgstr ""
 "I Networks virtuali privati (VPNs) possono essere più veloci di Tor, ma non "
 "hanno una rete di anonimato, perchè gli amministratori delle VPN possono "
 "sapere sia da dove ti stai connettendo che dove stai cercando di connetterti "
-"e questo infrange il tuo anonimato. Tor provvede l'anonimato rendendo "
+"e questo viola il tuo anonimato. Tor fornisce l'anonimato rendendo "
 "impossibile per un singolo punto della rete sapere sia l'origine che la "
 "destinazione della connessione."
 
@@ -71,7 +72,7 @@ msgid ""
 "other hand, the Tor network is formed by over 5000 relays run worldwide by "
 "volunteers."
 msgstr ""
-"Quando usi una VPN, un attaccante può rompere il tuo anonimato monitorando "
+"Quando usi una VPN, un attaccante può violare il tuo anonimato monitorando "
 "le connessioni in entrata e in uscita dei pochi server della VPN. D'altra "
 "parte, la rete Tor è formata da più di 5000 nodi attivi mantenuti da "
 "volontari."
@@ -79,7 +80,7 @@ msgstr ""
 #. type: Title =
 #, no-wrap
 msgid "User base\n"
-msgstr "Utente Base\n"
+msgstr "Base utenti\n"
 
 #. type: Plain text
 msgid ""
@@ -89,7 +90,7 @@ msgid ""
 msgstr ""
 "Tor è la rete di anonimato con la più grande utenza di base. Più di "
 "700&thinsp;000 utenti si sono connessi a Tor giornalmente nel 2013. Essere "
-"utilizzata da una così grande utenza prova la sua maturità, stabilità e "
+"utilizzata da una così vasta utenza prova la sua maturità, stabilità e "
 "usabilità."
 
 #. type: Plain text
@@ -119,8 +120,8 @@ msgid ""
 "from the most auditing and peer review."
 msgstr ""
 "Tor ha collaborato con i più importanti istituti di ricerca, ed è stato "
-"sottoposto a una intensiva ricerca accademica. Essa è la rete di anonimato "
-"che ha beneficiato dei migliori risconti e revisioni."
+"sottoposto a una intensiva ricerca accademica. E' la rete di anonimato che "
+"ha beneficiato dei migliori risconti e revisioni paritarie."
 
 #. type: Plain text
 msgid ""
@@ -144,8 +145,7 @@ msgstr ""
 "Un estratto di una valutazione Top Secret della NSA definiscono Tor come "
 "\"[il Re dell'alta sicurezza, dell'anonimato in internet a bassa latenza]"
 "(http://www.theguardian.com/world/interactive/2013/oct/04/tor-high-secure-"
-"internet-anonymity)\" con \"nessun contendente per il trono che stanno "
-"aspettando\"."
+"internet-anonymity)\" con \"nessun contendente per il trono in attesa\"."
 
 #. type: Plain text
 #, no-wrap
