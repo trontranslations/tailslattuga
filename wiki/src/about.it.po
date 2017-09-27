@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1\n"
 "POT-Creation-Date: 2017-08-05 14:00+0200\n"
-"PO-Revision-Date: 2016-06-11 18:33+0100\n"
+"PO-Revision-Date: 2017-09-27 02:38+0000\n"
 "Last-Translator: Zeyev <zeyev@autistici.org>\n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -49,27 +49,21 @@ msgid ""
 msgstr ""
 "Tails é un sistema operativo \"live\" che ha come obiettivo preservare la "
 "tua privacy e anonimato. Ti aiuta ad utilizzare internet in forma anonima e "
-"a evitare i filtri della censura, praticamente in qualunque luogo tu vada e "
-"su qualunque computer, senza lasciare tracce a meno che tu non voglia farlo "
+"a evitare i filtri della censura, praticamente ovunque tu vada e su "
+"qualsiasi computer, senza lasciare tracce a meno che tu non lo richieda "
 "esplicitamente."
 
 #. type: Plain text
-#, fuzzy
-#| msgid ""
-#| "It is a complete operating system designed to be used from a DVD, USB "
-#| "stick, or SD card independently of the computer's original operating "
-#| "system. It is [[Free Software|doc/about/license]] and based on [[Debian "
-#| "GNU/Linux|https://www.debian.org/]]."
 msgid ""
 "It is a complete operating system designed to be used from a USB stick or a "
 "DVD independently of the computer's original operating system. It is [[Free "
 "Software|doc/about/license]] and based on [[Debian GNU/Linux|https://www."
 "debian.org/]]."
 msgstr ""
-"É un Sistema Operativo completo progettato per essere avviato da DVD, "
-"memoria USB o scheda SD e funziona indipendentemente dal sistema operativo "
-"originale installato sul computer. É un [[Software Libero|doc/about/"
-"license]] basato su [[Debian GNU/Linux|https://www.debian.org/index.it."
+"E' un Sistema Operativo completo progettato per essere avviato da DVD, "
+"chiavetta USB o schedina SD e funziona indipendentemente dal sistema "
+"operativo originale installato sul computer. E' un [[Software Libero|doc/"
+"about/license]] basato su [[Debian GNU/Linux|https://www.debian.org/index.it."
 "html]]."
 
 #. type: Plain text
@@ -78,10 +72,10 @@ msgid ""
 "in mind: web browser, instant messaging client, email client, office suite, "
 "image and sound editor, etc."
 msgstr ""
-"Tails ti arriva con diverse applicazioni già pre-configurate, tenendo sempre "
-"in mente la sicurezza: un browser  per il web, un client di messaggistica "
-"istantanea, un programma client di posta elettronica, una suite di "
-"scrittura, software per editare immagini e suoni, etc."
+"Tails viene distribuito con diverse applicazioni già pre-configurate, con "
+"un'attenzione particolare per la sicurezza: un browser per esplorare il web, "
+"un client di messaggistica istantanea, un client di posta elettronica, una "
+"suite di scrittura, software per editare immagini e suoni, etc."
 
 #. type: Plain text
 #, no-wrap
@@ -135,9 +129,9 @@ msgid ""
 "security."
 msgstr ""
 "Tor è Software Libero ed è un network distribuito che aiuta a difendersi "
-"contro le forme di vigilanza nella rete internet che minacciano la libertà "
-"personale e la privacy, attività commerciali e relazioni confidenziali, e "
-"contro le strategie di indagine conosciute come analisi del traffico."
+"contro l'analisi del traffico, una forma di vigilanza della rete internet "
+"che minaccia la libertà personale e la privacy, attività commerciali e "
+"relazioni confidenziali, e la sicurezza della nazione."
 
 #. type: Plain text
 msgid ""
@@ -150,7 +144,7 @@ msgstr ""
 "di ripetitori mantenuta da una comunità di volontari in tutto il mondo: "
 "questo evita che chiunque stia osservando le tue comunicazioni sappia che "
 "siti web stai visitando e previene che gli stessi siti conoscano la tua "
-"locazione fisica."
+"posizione geografica."
 
 #. type: Plain text
 msgid "Using Tor you can:"
@@ -162,7 +156,7 @@ msgstr "navigare nel web in forma anonima offuscando la propria posizione,"
 
 #. type: Bullet: '  - '
 msgid "connect to services that would be censored otherwise;"
-msgstr "connettersi a servizi che in altro modo sarebbero censurati,"
+msgstr "connettersi a servizi che, altrimenti, sarebbero censurati,"
 
 #. type: Bullet: '  - '
 msgid ""
@@ -228,7 +222,7 @@ msgstr "<a id=\"amnesia\"></a>\n"
 #. type: Title =
 #, no-wrap
 msgid "Use anywhere but leave no trace\n"
-msgstr "Usalo dove vuoi ma senza lasciare traccia\n"
+msgstr "Usalo dove vuoi, senza lasciare traccia\n"
 
 #. type: Plain text
 msgid ""
@@ -238,10 +232,10 @@ msgid ""
 "the computer will start again with its usual operating system."
 msgstr ""
 "L'uso di Tails non altera né dipende dal sistema operativo installato "
-"attualmente nel computer. Così lo si può utilizzare sul proprio computer, e "
-"nello stesso modo sul pc di un amico o su quello della biblioteca. Dopo che "
-"si è spento Tails, il computer può essere riacceso con l'usuale sistema "
-"operativo."
+"attualmente nel computer. Per questo, lo puoi utilizzare nello stesso modo "
+"sul tuo computer o su quello di un amico o della biblioteca. Dopo aver "
+"spento Tails, il computer può essere riacceso con il sistema operativo "
+"abituale."
 
 #. type: Plain text
 msgid ""
@@ -252,11 +246,11 @@ msgid ""
 "itself or what you used it for. That's why we call Tails \"amnesic\"."
 msgstr ""
 "Tail è configurato con una speciale attenzione a non utilizzare il disco "
-"fisso del computer, neppure lo spazio swap. L'unico spazio di scrittura/"
-"lettura utilizzato da Tails sul PC è la memoria RAM, che viene "
+"fisso del computer, neppure se presente uno spazio swap. L'unico spazio di "
+"scrittura/lettura utilizzato da Tails sul PC è la memoria RAM, che viene "
 "automaticamente cancellata quando si spegne il computer. In questo modo non "
-"si lascia traccia del sistema operativo Tails e neppure di come lo si è "
-"utilizzato. É per questo motivo che lo si definisce\"amnésico\"."
+"si lascia traccia del sistema operativo Tails, nè del motivo per cui lo si è "
+"utilizzato. É per questo che lo definiamo \"amnésico\"."
 
 #. type: Plain text
 msgid ""
@@ -268,18 +262,18 @@ msgstr ""
 "Questo ti permette di lavorare su documenti sensibili su qualunque computer "
 "e ti protegge dal tentativo di terzi di recuperare i dati dopo lo "
 "spegnimento. Chiaramente è possibile salvare esplicitamente dei documenti su "
-"un' altra memoria USB  o in un disco rigido esterno e metterlo via per usi "
+"un' altra chiavetta USB  o in un disco rigido esterno e conservarli per usi "
 "futuri."
 
 #. type: Plain text
 #, no-wrap
 msgid "<a id=\"cryptography\"></a>\n"
-msgstr "<a id=\"cryptography\"></a>\n"
+msgstr "<a id=\"crittografia\"></a>\n"
 
 #. type: Title =
 #, no-wrap
 msgid "State-of-the-art cryptographic tools\n"
-msgstr "Strumenti di crittografia di alto livello\n"
+msgstr "Strumenti di crittografia all'avanguardia\n"
 
 #. type: Plain text
 msgid ""
@@ -296,10 +290,10 @@ msgid ""
 "Linux_Unified_Key_Setup desc=\"LUKS\"]]</span>, the Linux standard for disk-"
 "encryption."
 msgstr ""
-"[[Criptare una memoria USB o un disco fisso esterno|doc/"
+"[[Cifrare una chiavetta USB o un disco fisso esterno|doc/"
 "encryption_and_privacy/encrypted_volumes]] usando <span class=\"definition"
 "\">[[!wikipedia_it Linux_Unified_Key_Setup desc=\"LUKS\"]]</span>, lo "
-"strumento standard per criptare un disco su Gnu-Linux."
+"strumento standard per cifrare un disco su Gnu-Linux."
 
 #. type: Bullet: '  - '
 msgid ""
@@ -320,10 +314,10 @@ msgid ""
 "\"OpenPGP\"]]</span> either from Tails email client, text editor or file "
 "browser."
 msgstr ""
-"Cripta e firma le tue email e documenti usando lo standard riconosciuto "
-"<span class=\"definition\">[[!wikipedia Pretty_Good_Privacy#OpenPGP desc="
-"\"OpenPGP\"]]</span>, entrambe le cose dal client emails di Tails, "
-"dall'editor di testo o dal gestore dei file."
+"Cifra e firma le tue email e documenti usando lo standard riconosciuto <span "
+"class=\"definition\">[[!wikipedia Pretty_Good_Privacy#OpenPGP desc=\"OpenPGP"
+"\"]]</span>,  tutto dal client email di Tails, dall'editor di testo o dal "
+"gestore dei file."
 
 #. type: Bullet: '  - '
 msgid ""
@@ -334,7 +328,7 @@ msgstr ""
 "Proteggi le tue conversazioni online con <span class=\"definition\">[[!"
 "wikipedia_it Off-the-Record Messaging desc=\"OTR\"]]</span> (Off-the-Record "
 "Messaging, pagina in inglese), uno strumento crittografico per la cifratura, "
-"l'autenticazione e la plausibile smentita."
+"l'autenticazione e la \"plausibile smentita\"."
 
 #. type: Bullet: '  - '
 msgid ""
@@ -343,7 +337,7 @@ msgid ""
 "org/nautilus-wipe.html]]."
 msgstr ""
 "[[Cancellazione sicura dei file|doc/encryption_and_privacy/secure_deletion]] "
-"e pulizia del tuo spazio disco usando [[Nautilus Wipe|http://wipetools."
+"e pulizia del tuo spazio libero usando [[Nautilus Wipe|http://wipetools."
 "tuxfamily.org/nautilus-wipe.html]]."
 
 #. type: Plain text
@@ -361,7 +355,7 @@ msgstr "E dopo?\n"
 
 #. type: Plain text
 msgid "To continue discovering Tails, you can now read:"
-msgstr "Per continuare ad approfondire su Tails, si può leggere:"
+msgstr "Per continuare ad approfondire su Tails, puoi leggere:"
 
 #. type: Bullet: '  - '
 msgid ""
@@ -369,7 +363,7 @@ msgid ""
 "limitations of Tails and Tor,"
 msgstr ""
 "la [[pagina degli avvertenze|doc/about/warning]] per capire meglio le "
-"limitazioni di sicurezza che ci sono in Tails e in Tor,"
+"limitazioni di sicurezza presenti Tails e in Tor,"
 
 #. type: Bullet: '  - '
 msgid ""
@@ -421,15 +415,16 @@ msgid "See [[Press and media information|press]]."
 msgstr "Guarda [[informazioni dalla stampa e dai media|press]]."
 
 #. type: Title =
-#, fuzzy, no-wrap
-#| msgid "Contact\n"
+#, no-wrap
 msgid "Social Contract\n"
-msgstr "Contatti\n"
+msgstr "Contratto con la comunità\n"
 
 #. type: Plain text
 msgid ""
 "Read our [[Social Contract|contribute/working_together/social_contract]]."
 msgstr ""
+"Leggi il nostro [[Contratto con la comintà|contribute/working_together/"
+"social_contract]]."
 
 #. type: Title =
 #, no-wrap
