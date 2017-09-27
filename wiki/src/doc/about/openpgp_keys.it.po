@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-10-26 16:26+0300\n"
-"PO-Revision-Date: 2017-09-26 01:06+0000\n"
+"PO-Revision-Date: 2017-09-27 00:42+0000\n"
 "Last-Translator: \n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -37,7 +37,7 @@ msgid ""
 "several fake and maybe malicious Tails keys on the key servers.</p>\n"
 msgstr ""
 "Assicurati di verificare le chiavi scaricate, poiché esistono\n"
-"diverse chiavi Tails false e probabilmente malevole sui server pubblici che distribuiscono le chiavi.\n"
+"diverse chiavi Tails false e probabilmente malevole sui keyserver.\n"
 
 #. type: Plain text
 #, no-wrap
@@ -50,7 +50,7 @@ msgstr ""
 "<p>Per esempio, se tu prima [[autentichi la chiave della firma di Tails\n"
 "attraverso la Rete di Fiducia OpenPGP|install/download/openpgp#wot]], poi\n"
 "sarà possibile verificare le chiavi degli altri in quanto sono tutte certificate \n"
-"dalla chiave della firma di Tails<p>\n"
+"dalla chiave per le firme di Tails<p>\n"
 
 #. type: Plain text
 #, no-wrap
@@ -70,7 +70,7 @@ msgstr "<a id=\"privato\"></a>\n"
 #. type: Title =
 #, no-wrap
 msgid "Private mailing list key\n"
-msgstr "Chiave privata della mailing list\n"
+msgstr "Chiave privata della mailing-list\n"
 
 #. type: Title -
 #, no-wrap
@@ -88,9 +88,9 @@ msgid ""
 "the core developers encrypted mailing list: [[tails@boum.org|about/"
 "contact#tails]]."
 msgstr ""
-"Questa chiave ha una sottochiave di cifratura. Per piacere usala per "
-"criptare le email mandate agli sviluppatori nella mailing list criptata "
-"principale : [[tails@boum.org|about/contact#tails]]."
+"Questa chiave ha una sottochiave di cifratura. Per piacere usala per cifrare "
+"le email mandate agli sviluppatori nella mailing-list cifrata principale : "
+"[[tails@boum.org|about/contact#tails]]."
 
 #. type: Title ###
 #, no-wrap
@@ -112,7 +112,7 @@ msgstr ""
 "Questo obiettivo è ormai superato: le future versioni saranno firmate "
 "tramite una chiave dedicata più sicura. Dal 7 Ottobre 2010, la nostra chiave "
 "della mailing-list dice che il contenuto firmato era originariamente firmato "
-"con OpenPGP dagli sviluppatori del nucleo di Tails  "
+"con OpenPGP dagli sviluppatori del cuore di Tails  "
 
 #. type: Title -
 #, no-wrap
@@ -126,8 +126,8 @@ msgid ""
 "Tails developers."
 msgstr ""
 "Il materiale della chiave segreta e la sua password sono custoditi in un "
-"server che gira le nostre mailing-list criptate e sui sistemi controllati "
-"dagli sviluppatori di Tails"
+"server che gira le nostre mailing-list cifrate e sui sistemi controllati "
+"dagli sviluppatori di Tails."
 
 #. type: Plain text
 msgid ""
@@ -139,8 +139,8 @@ msgstr ""
 "Questo significa che le persone che non sono sviluppatori di Tails sono "
 "nella posizione di usare questa chiave segreta. Gli sviluppatori di Tails si "
 "fidano di queste persone al punto da lasciargli seguire la nostra mailing-"
-"list criptata, ma comunque: questa coppia di chiavi è controllata in una "
-"maniera meno sicura della nostra chiave di firma."
+"list cifrata, ma comunque: questa coppia di chiavi è controllata in una "
+"maniera meno sicura della nostra chiave per le firme."
 
 #. type: Title -
 #, no-wrap
@@ -201,7 +201,7 @@ msgid ""
 "subkey."
 msgstr ""
 "Questa chiave ha solo la capacità di firmare e certificare: non ha la "
-"sottochiave di criptazione."
+"sottochiave di cifratura."
 
 #. type: Plain text
 msgid "Its only purpose is:"
@@ -282,8 +282,8 @@ msgid ""
 msgstr ""
 "Custodite su delle smartcard OpenPGP possedute da chi le necessita. Le "
 "smartcard assicurano che le operazioni di crittografia siano fatte sulle "
-"smartcard stesse e che il materiale di crittografia segreto non sia "
-"direttamente disponibile al sistema operativo che lo usa. "
+"stesse e che il materiale di crittografia segreto non sia direttamente "
+"disponibile al sistema operativo che lo usa. "
 
 #. type: Bullet: '* '
 msgid "Expiration date: same as the primary key."
@@ -339,7 +339,7 @@ msgid ""
 "Use this key to encrypt private support requests sent to [[tails-support-"
 "private@boum.org|about/contact#tails-support-private]]."
 msgstr ""
-"Utilizza questa chiave per criptare richieste di supporto da mandare a "
+"Utilizza questa chiave per cifrare richieste di supporto da mandare a "
 "[[tails-support-private@boum.org|about/contact#tails-support-private]]."
 
 #. type: Bullet: '  - '
@@ -388,7 +388,7 @@ msgid ""
 "Use this key to encrypt private emails sent to [[tails-press@boum.org|about/"
 "contact#tails-press]]."
 msgstr ""
-"Utilizza questa chiave per mandare email criptate a [[tails-press@boum.org|"
+"Utilizza questa chiave per mandare email cifrate a [[tails-press@boum.org|"
 "about/contact#tails-press]]."
 
 #. type: Plain text
@@ -427,7 +427,7 @@ msgid ""
 "Use this key to encrypt private emails sent to [[tails-accounting@boum.org|"
 "about/contact#tails-acccounting]]."
 msgstr ""
-"Utilizza questa chiave per criptare le email private mandate a  [[tails-"
+"Utilizza questa chiave per cifrare le email private mandate a  [[tails-"
 "accounting@boum.org|about/contact#tails-acccounting]]."
 
 #. type: Plain text
@@ -470,8 +470,8 @@ msgid ""
 "Use this key to encrypt private emails sent to [[tails-mirrors@boum.org|"
 "about/contact#tails-mirrors]]."
 msgstr ""
-"Utilizza questa chiave per mandare email criptate a  [[tails-mirrors@boum."
-"org|about/contact#tails-mirrors]]."
+"Utilizza questa chiave per mandare email cifrate a  [[tails-mirrors@boum.org|"
+"about/contact#tails-mirrors]]."
 
 #. type: Plain text
 #, no-wrap
@@ -509,7 +509,7 @@ msgid ""
 "Use this key to encrypt private emails sent to [[tails-sysadmins@boum.org|"
 "about/contact#tails-sysadmins]]."
 msgstr ""
-"Utilizza questa chiave per mandare email criptate a [[tails-sysadmins@boum."
+"Utilizza questa chiave per mandare email cifrate a [[tails-sysadmins@boum."
 "org|about/contact#tails-sysadmins]]."
 
 #. type: Plain text

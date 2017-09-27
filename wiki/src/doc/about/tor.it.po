@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-02-25 15:24+0100\n"
-"PO-Revision-Date: 2017-09-26 01:12+0000\n"
+"PO-Revision-Date: 2017-09-27 00:23+0000\n"
 "Last-Translator: Tails developers <tails@boum.org>\n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it_IT\n"
@@ -26,11 +26,10 @@ msgstr "[[!meta title=\"Perche' Tails usa Tor?\"]]\n"
 msgid "Tails uses Tor because it is the best available anonymity network."
 msgstr "Tails utilizza Tor perché è la migliore rete di anonimato disponibile."
 
-# Enforcement si traduce con applicazione forzata o imposizione.
 #. type: Title =
 #, no-wrap
 msgid "Anonymity enforcement\n"
-msgstr "Imposizione dell'anonimato\n"
+msgstr "Applicazione obbligatoria dell'anonimato\n"
 
 #. type: Plain text
 msgid ""
@@ -58,12 +57,12 @@ msgid ""
 "anonymity. Tor provides anonymity by making it impossible for a single point "
 "in the network to know both the origin and the destination of a connection."
 msgstr ""
-"I Networks virtuali privati (VPNs) possono essere più veloci di Tor, ma non "
-"hanno una rete di anonimato, perchè gli amministratori delle VPN possono "
-"sapere sia da dove ti stai connettendo che dove stai cercando di connetterti "
-"e questo viola il tuo anonimato. Tor fornisce l'anonimato rendendo "
-"impossibile per un singolo punto della rete sapere sia l'origine che la "
-"destinazione della connessione."
+"Le reti virtuali private (VPNs) possono essere più veloci di Tor, ma non "
+"sono una reti di anonimato, perchè gli amministratori delle VPN possono "
+"sapere sia da dove parte la tua connessione, sia la destinazione a cui stai "
+"cercando di connetterti e questo viola il tuo anonimato. Tor fornisce "
+"l'anonimato rendendo impossibile per un singolo punto della rete sapere sia "
+"l'origine che la destinazione della connessione."
 
 #. type: Plain text
 msgid ""
@@ -132,7 +131,7 @@ msgid ""
 msgstr ""
 "Tor ha ricevuto premi da istituzioni quali l' [Electronic Frontier "
 "Foundation](https://www.eff.org/awards/pioneer/2012), e la [Free Software "
-"Foundation](https://www.fsf.org/news/2010-free-software-awards-announced) "
+"Foundation](https://www.fsf.org/news/2010-free-software-awards-announced), "
 "per citarne alcune."
 
 #. type: Plain text

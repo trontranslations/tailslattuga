@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION it\n"
 "POT-Creation-Date: 2017-08-05 14:00+0200\n"
-"PO-Revision-Date: 2017-09-26 00:54+0000\n"
+"PO-Revision-Date: 2017-09-27 00:45+0000\n"
 "Last-Translator: Zeyev <zeyev@autistici.org>\n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -36,13 +36,13 @@ msgstr "Tails è stato pubblicato con la licenza GNU/GPL (versione 3 o superiore
 #. type: Plain text
 msgid "However, Tails includes non-free firmware in order to work on as much hardware as possible."
 msgstr ""
-"Tuttavia, Tails include anche firmware non gratuiti affinché possa funzionare sul maggior numero di "
+"Tuttavia, Tails include anche firmware non gratuiti, affinché possa funzionare sul maggior numero di "
 "hardware possibili."
 
 #. type: Title =
 #, no-wrap
 msgid "Source code\n"
-msgstr ""
+msgstr "Codice sorgente\n"
 
 #. type: Plain text
 msgid ""
