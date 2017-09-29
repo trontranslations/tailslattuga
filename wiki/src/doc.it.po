@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-11-17 10:52+0000\n"
-"PO-Revision-Date: 2017-06-29 09:56+0000\n"
+"PO-Revision-Date: 2017-09-29 14:03+0000\n"
 "Last-Translator: \n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -97,10 +97,8 @@ msgstr ""
 "[[Installa da un'altra distribuzione GNU/Linux|install/linux/usb/overview]]"
 
 #. type: Bullet: '  - '
-msgid ""
-"[[Install from macOS by burning a DVD first|install/mac/dvd/overview]]"
-msgstr ""
-"[[Installa da macOS masterizzandoti un DVD|install/mac/dvd/overview]]"
+msgid "[[Install from macOS by burning a DVD first|install/mac/dvd/overview]]"
+msgstr "[[Installa da macOS masterizzandoti un DVD|install/mac/dvd/overview]]"
 
 #. type: Bullet: '  - '
 msgid "[[Install from macOS and the command line|install/mac/usb/overview]]"
@@ -122,7 +120,7 @@ msgstr "[[Scarica e verifica con OpenPGP|install/download/openpgp]]"
 #. type: Title #
 #, no-wrap
 msgid "First steps with Tails"
-msgstr "Tails per principianti"
+msgstr "Primi passi con Tails"
 
 #. type: Plain text
 #, no-wrap
@@ -152,7 +150,7 @@ msgstr "[[!inline pages=\"doc/encryption_and_privacy.index.it\" raw=\"yes\" sort
 #. type: Title #
 #, no-wrap
 msgid "Work on sensitive documents"
-msgstr "Lavorare su documenti sensibili."
+msgstr "Lavorare su documenti sensibili"
 
 #. type: Plain text
 #, no-wrap
