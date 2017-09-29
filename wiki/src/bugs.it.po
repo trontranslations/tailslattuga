@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-05 14:00+0200\n"
-"PO-Revision-Date: 2017-07-21 13:56+0200\n"
+"PO-Revision-Date: 2017-09-29 14:05+0000\n"
 "Last-Translator: \n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -19,14 +19,14 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta title=\"Bugs\"]]\n"
-msgstr "[[!meta title=\"Bugs\"]]\n"
+msgstr "[[!meta title=\"Falle\"]]\n"
 
 #. type: Plain text
 msgid ""
 "If you've found a bug in Tails, please read [[doc/first_steps/"
 "bug_reporting]]."
 msgstr ""
-"Se hai trovato un bug in Tails, per favore leggi [[doc/first_steps/"
+"Se hai trovato una falla in Tails, per favore leggi [[doc/first_steps/"
 "bug_reporting]]."
 
 #. type: Plain text
