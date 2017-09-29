@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: transitails\n"
 "POT-Creation-Date: 2017-02-09 18:52+0100\n"
-"PO-Revision-Date: 2017-07-23 21:02+0200\n"
+"PO-Revision-Date: 2017-09-29 14:40+0000\n"
 "Last-Translator: boyska <piuttosto@logorroici.org>\n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -42,11 +42,11 @@ msgstr "Hai bisogno di:"
 
 #. type: Content of: <div><div><ul><li>
 msgid "Your Tails USB stick"
-msgstr "Il tuo dispositivo USB avviabile con Tails"
+msgstr "Il tuo dispositivo USB avviabile, con Tails installato"
 
 #. type: Content of: <div><div><ul><li>
 msgid "Another up-to-date Tails (USB stick or DVD)"
-msgstr "Un ulteriore Tails aggiornato"
+msgstr "Un altro Tails aggiornato (dispositvo USB o DVD)"
 
 #. type: Content of: <div><div><ul><li>
 msgid "¼ hour to upgrade"

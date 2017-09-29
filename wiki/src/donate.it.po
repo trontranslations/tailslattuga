@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2017-08-05 14:00+0200\n"
-"PO-Revision-Date: 2017-07-21 14:37+0200\n"
+"PO-Revision-Date: 2017-09-29 14:16+0000\n"
 "Last-Translator: boyska <piuttosto@logorroici.org>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -31,12 +31,12 @@ msgid ""
 "Tails is free because nobody should have to pay to be safe while using "
 "computers."
 msgstr ""
-"Tails è gratuito perchè nessuno dovrebbe spendere dei soldi per usare in "
+"Tails è gratuito perché nessuno dovrebbe spendere dei soldi per usare in "
 "modo sicuro il proprio computer."
 
 #. type: Content of: <div><div><h3>
 msgid "But we need your support to stay alive!"
-msgstr "Ma necessitiamo il tuo aiuto per sopravvivere!"
+msgstr "Ma ci serve il tuo aiuto per sopravvivere!"
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -47,9 +47,9 @@ msgid ""
 msgstr ""
 "Tails è uno strumento insostituibile e permette a chiunque di utilizzare i "
 "pc tranquillamente in modo sicuro. Ma sappiamo che gli strumenti basati "
-"sulla sicurezza, devono essere software libero per essere affidabili  e "
-"pertinenti in tutte le situazioni. È per questo che distribuiamo Tails "
-"liberamente/gratuitamente."
+"sulla sicurezza, devono essere software libero per essere affidabili e "
+"significativi in tutte le situazioni. È per questo che distribuiamo Tails "
+"liberamente e gratuitamente."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -59,17 +59,18 @@ msgid ""
 "everybody."
 msgstr ""
 "Se chi usa Tails donasse qualcosa, la nostra raccolta fondi sarebbe a posto "
-"per l'intero anno. Ma non tutti possono metterci qualcosa, e va bene così. "
-"Noi abbiamo solo bisogno di un pò di voi per continuare a fornire una "
-"piattaforma sicura per tutti."
+"per l'intero anno. Ma non tutti possono metterselo, e va bene così. Noi "
+"abbiamo solo bisogno di un po' di voi per continuare a fornire una "
+"piattaforma sicura di questo livello a tutti."
 
 #. type: Content of: <div><div><p>
 msgid ""
 "Donations from individuals, like you, are our most valuable funding as they "
 "make Tails more independent from government and corporate funding."
 msgstr ""
-"Donazioni da singoli, come te, sono i contributi che hanno maggior valore "
-"per noi perchè ci permettono di essere indipendenti da governi ed aziende."
+"Donazioni dai singoli individui, proprio come te, sono le più importanti, "
+"perché rendono Tails sempre più indipendente dai finanziamenti governativi e "
+"delle grandi aziende."
 
 #. type: Content of: <div><div><p>
 msgid ""
@@ -82,12 +83,12 @@ msgstr ""
 msgid "Thanks!"
 msgstr "Grazie!"
 
-#.  HTML Variables for PayPal Payments Standard:
-#.        https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/Appx_websitestandard_htmlvariables/ 
-#.  Note for translators: adapt the URLs to return to the page in your language. 
-#.  Note for translators: adapt the value of 'lc' to your language. 
-#.  For recurring donations only. 
-#.  For one-time donation only. 
+#. HTML Variables for PayPal Payments Standard:
+#. https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/Appx_websitestandard_htmlvariables/
+#. Note for translators: adapt the URLs to return to the page in your language.
+#. Note for translators: adapt the value of 'lc' to your language.
+#. For recurring donations only.
+#. For one-time donation only.
 #. type: Content of: <div><div><div><form>
 msgid ""
 "<input type=\"hidden\" name=\"cmd\" value=\"_xclick-subscriptions\" id=\"cmd"
@@ -255,15 +256,15 @@ msgid ""
 "Your donation will be handled by RiseupLabs which is a 501(c)(3) non-profit "
 "organization in the USA."
 msgstr ""
-"Le tue donazioni saranno maneggiate da RiseupLabs che è una organizzazione "
-"501(c)(3) no-profit in USA."
+"Le tue donazioni saranno gestite da RiseupLabs, una organizzazione 501(c)(3) "
+"no-profit con sede negli USA."
 
 #. type: Content of: <div><div><div><div><p>
 msgid ""
 "<strong>All donations are tax-deductible to the full extent permitted by law."
 "</strong>"
 msgstr ""
-"<strong>Tutte le donazioni sono interamente scaricabili dalle tasse a norma "
+"<strong>Tutte le donazioni sono interamente deducibili dalle tasse a norma "
 "di legge.</strong>"
 
 #. type: Content of: <div><div><div><div><p>
@@ -271,8 +272,8 @@ msgid ""
 "Your donation will be handled by Zwiebelfreunde which is a non-profit "
 "organization in Germany."
 msgstr ""
-"Le tue donazioni saranno maneggiate da Zwiebelfreundeche è una "
-"organizzazione no-profit in Germania."
+"Le tue donazioni saranno gestite da Zwiebelfreundeche, organizzazione no-"
+"profit con sede in Germania."
 
 #. type: Content of: <div><div><div><div><h2>
 msgid "Donate in dollars"
@@ -282,8 +283,8 @@ msgstr "Dona in dollari"
 msgid "Recurring donation"
 msgstr "Donazione ricorrente"
 
-#.  Note for translators: adapt the URLs to return to the page in your language. 
-#.  Note for translators: adapt the value of 'lc' to your language. 
+#. Note for translators: adapt the URLs to return to the page in your language.
+#. Note for translators: adapt the value of 'lc' to your language.
 #. type: Content of: <div><div><div><div><form>
 msgid ""
 "<input type=\"hidden\" name=\"cmd\" value=\"_xclick-subscriptions\"/> <input "
@@ -350,10 +351,10 @@ msgstr ""
 msgid "One-time donation"
 msgstr "Una singola donazione"
 
-#.  Note for translators: the following parts need to be translated:
-#.          - https://tails.boum.org/donate/thanks
-#.          - https://tails.boum.org/donate/canceled
-#.          - US 
+#. Note for translators: the following parts need to be translated:
+#. - https://tails.boum.org/donate/thanks
+#. - https://tails.boum.org/donate/canceled
+#. - US
 #. type: Content of: <div><div><div><div><form>
 msgid ""
 "<input type=\"hidden\" name=\"cmd\" value=\"_donations\"/> <input type="
@@ -400,10 +401,10 @@ msgstr "<input type=\"submit\" value=\"Donate\"/>"
 msgid "Donate in euros"
 msgstr "Dona in euro"
 
-#.  Note for translators: the following parts need to be translated:
-#.          - https://tails.boum.org/donate/thanks
-#.          - https://tails.boum.org/donate/canceled
-#.          - US 
+#. Note for translators: the following parts need to be translated:
+#. - https://tails.boum.org/donate/thanks
+#. - https://tails.boum.org/donate/canceled
+#. - US
 #. type: Content of: <div><div><div><div><form>
 msgid ""
 "<input type=\"hidden\" name=\"cmd\" value=\"_xclick-subscriptions\"/> <input "
@@ -448,10 +449,10 @@ msgstr ""
 "<input type=\"radio\" name=\"a3\" value=\"500\" id=\"sub500\"/><label for="
 "\"sub500\">500€</label>"
 
-#.  Note for translators: the following parts need to be translated:
-#.          - https://tails.boum.org/donate/thanks
-#.          - https://tails.boum.org/donate/canceled
-#.          - US 
+#. Note for translators: the following parts need to be translated:
+#. - https://tails.boum.org/donate/thanks
+#. - https://tails.boum.org/donate/canceled
+#. - US
 #. type: Content of: <div><div><div><div><form>
 msgid ""
 "<input type=\"hidden\" name=\"cmd\" value=\"_donations\"/> <input type="
