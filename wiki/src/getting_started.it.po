@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tails\n"
 "POT-Creation-Date: 2016-05-17 09:40+0200\n"
-"PO-Revision-Date: 2017-07-09 10:24+0000\n"
+"PO-Revision-Date: 2017-09-29 14:19+0000\n"
 "Last-Translator: \n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it_IT\n"
@@ -40,7 +40,7 @@ msgid ""
 "2. Then read the [[warning|doc/about/warning]] page to understand **what Tails doesn't protect you\n"
 "against**, how you can screw up your anonymity or leave traces.\n"
 msgstr ""
-"2. Poi leggi la pagina [[avvertimenti|doc/about/warning]] per capire **da che cosa Tails non ti proteggerà**,\n"
+"2. Poi leggi la pagina [[avvertimenti|doc/about/warning]] per capire **da cosa Tails non ti protegge**,\n"
 " come puoi invalidare il tuo anonimato oppure cancellare le tracce.\n"
 
 #. type: Plain text
@@ -88,14 +88,14 @@ msgstr ""
 #. type: Title -
 #, no-wrap
 msgid "Found a bug?\n"
-msgstr "Hai trovato un bug ?\n"
+msgstr "Hai trovato una falla?\n"
 
 #. type: Plain text
 msgid ""
 "If you found a bug in Tails or want to request a new feature, see our "
 "[[support]] pages."
 msgstr ""
-"Se trovi un bug in Tails o hai una richiesta di una nuova funzionalità, "
+"Se trovi una falla in Tails o vuoi richiedere di una nuova funzionalità, "
 "guarda la nostra [[pagina per il supporto|support]]."
 
 #. type: Title -
