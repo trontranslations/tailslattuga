@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tails italiano\n"
 "POT-Creation-Date: 2017-07-31 23:58+0300\n"
-"PO-Revision-Date: 2017-09-29 15:00+0000\n"
+"PO-Revision-Date: 2017-10-02 22:00+0000\n"
 "Last-Translator: Zeyev <tbd@tbd.com>\n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -19,7 +19,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "[[!meta title=\"Uninstalling Tails or resetting a USB stick\"]]\n"
-msgstr "[[!meta title=\"Disinstallare Tails o formattare un dispositivo USB/schedina SD\"]]\n"
+msgstr "[[!meta title=\"Disinstallare Tails o formattare un a chiavetta USB\"]]\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
