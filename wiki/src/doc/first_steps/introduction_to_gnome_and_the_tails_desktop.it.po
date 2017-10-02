@@ -212,7 +212,7 @@ msgstr "<a id=\"favorites\"></a>\n"
 #. type: Title ###
 #, no-wrap
 msgid "Favorites submenu"
-msgstr "Sottomenù Preferiti"
+msgstr "Sottomenù preferiti"
 
 #. type: Plain text
 #, no-wrap
