@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Tails italiano\n"
 "POT-Creation-Date: 2017-08-05 14:00+0200\n"
-"PO-Revision-Date: 2017-05-30 18:09+0200\n"
+"PO-Revision-Date: 2017-10-02 21:47+0000\n"
 "Last-Translator: Zeyev <tbd@tbd.com>\n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it\n"
@@ -27,7 +27,7 @@ msgid ""
 "basic functioning. The two ways of specifying startup options are the "
 "following:"
 msgstr ""
-"Quando avvii Tails puoi definire le opzioni di avvio per alterare alcuni "
+"Quando avvii Tails, puoi definire le opzioni di avvio per modificare alcuni "
 "aspetti del suo funzionamento. I due modi di definire le opzioni di avvio "
 "sono i seguenti:"
 
@@ -73,8 +73,8 @@ msgid ""
 "starting Tails.</p>\n"
 msgstr ""
 "<p>La modalità <span class=\"guilabel\">Troubleshooting Mode</span> disattiva alcune funzionalità\n"
-"del kernel e potrebbe funzionare meglio su certi computer. Puoi provare questa opzione\n"
-"se pensi di stare incontrando errori legati alla compatibilità dell'hardware quando\n"
+"del kernel Linux e potrebbe funzionare meglio su certi computer. Puoi provare questa opzione\n"
+"se pensi di stare incontrando errori legati alla compatibilità hardware quando\n"
 "avvii Tails.</p>\n"
 
 #. type: Plain text
@@ -161,7 +161,7 @@ msgid ""
 "You can activate assistive technologies, like a screen reader or large text, "
 "from the universal access menu (the"
 msgstr ""
-"Puoi attivare tecnologie assistive, come lettori dello schermo o font "
+"Puoi attivare tecnologie di assistenza, come lettori dello schermo o font "
 "larghi, dal menu di accesso universale ( l'"
 
 #. type: Plain text
@@ -240,7 +240,7 @@ msgid ""
 "  desktop after starting Tails.\n"
 msgstr ""
 "Sarai sempre in grado di cambiare tra differenti stili di tastiera dal \n"
-"descktop dopo aver fatto partire Tails\n"
+"desktop dopo aver fatto partire Tails\n"
 
 #. type: Plain text
 #, fuzzy, no-wrap
@@ -370,7 +370,7 @@ msgstr ""
 #. type: Plain text
 #, no-wrap
 msgid "  [[See our documentation about the administration password.|administration_password]]\n"
-msgstr "  [[Guarda la nostra documentazione a proposito della password da amministrratore.|administration_password]]\n"
+msgstr "  [[Guarda la nostra documentazione a proposito della password da amministratore.|administration_password]]\n"
 
 #. type: Bullet: '- '
 msgid ""
@@ -378,7 +378,7 @@ msgid ""
 "connectivity problems with your network interfaces."
 msgstr ""
 "Disabilitare il <span class=\"guilabel\">MAC Address Spoofing</span> per "
-"prevenire problemi di connettività nelle tue interfacce di rete."
+"prevenire problemi di connettività con tue interfacce di rete."
 
 #. type: Plain text
 #, no-wrap
@@ -404,7 +404,7 @@ msgid ""
 "If you want to use Tor bridges because your Internet connection is censored "
 "or you want to hide the fact that you are using Tor."
 msgstr ""
-"Se vuoi usare un bridge TOR perchè la tua connessione Internet è censurata o "
+"Se vuoi usare un bridge TOR perché la tua connessione Internet è censurata o "
 "vuoi nascondere il fatto che stai usando Tor."
 
 #. type: Bullet: '    - '
@@ -417,7 +417,7 @@ msgid ""
 "    After starting Tails and connecting to a network, an assistant will\n"
 "    guide you through the configuration of Tor.\n"
 msgstr ""
-"  Dopo aver fatto partire Tails ed esserti collegato alla rete, un assistente ti\n"
+"  Dopo aver avviato Tails ed esserti collegato alla rete, un assistente ti\n"
 "guiderà attraverso la configurazione di Tor.\n"
 
 #. type: Plain text
