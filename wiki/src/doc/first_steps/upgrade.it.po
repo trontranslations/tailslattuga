@@ -7,20 +7,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Italian translations\n"
 "POT-Creation-Date: 2017-07-31 21:51+0000\n"
-"PO-Revision-Date: 2016-04-10 20:57+0100\n"
+"PO-Revision-Date: 2017-10-02 21:37+0000\n"
 "Last-Translator: Zeyev <zeyev@autistici.org>\n"
 "Language-Team: ita <transitails@inventati.org>\n"
-"Language: \n"
+"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. type: Plain text
-#, fuzzy, no-wrap
-#| msgid "[[!meta title=\"Upgrading a Tails USB stick or SD card\"]]\n"
+#, no-wrap
 msgid "[[!meta title=\"Upgrading a Tails USB stick\"]]\n"
-msgstr "[[!meta title=\"Aggiornare una chiave USB o una scheda SD Tails\"]]\n"
+msgstr "[[!meta title=\"Aggiornare una chiavetta USB\"]]\n"
 
 #. type: Plain text
 msgid ""
@@ -29,10 +28,10 @@ msgid ""
 "you might have to do a **manual upgrade**. This page describes both "
 "techniques."
 msgstr ""
-"Tails include un meccanismo automatico per aggiornare una chiave USB a una "
-"nuova versione. In alcuni casi è impossibile effettuare un **aggiornamento "
-"automatico** e potresti dover effettuare un **aggiornamento manuale**. "
-"Questa pagina descrive entrambe le tecniche."
+"Tails include un meccanismo automatico per aggiornare una chiavetta USB ad "
+"una nuova versione. In alcuni casi è impossibile effettuare un "
+"**aggiornamento automatico** e potresti dover effettuare un **aggiornamento "
+"manuale**. Questa pagina descrive entrambe le tecniche."
 
 #. type: Plain text
 #, no-wrap
@@ -53,17 +52,13 @@ msgid "</div>\n"
 msgstr "</div>\n"
 
 #. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "Both techniques only work if the upgraded device, USB stick or SD card, was\n"
-#| "installed using <span class=\"application\">Tails Installer</span>. **The\n"
-#| "persistent storage on the device will be preserved.**\n"
+#, no-wrap
 msgid ""
 "Both techniques only work if the upgraded USB stick, was\n"
 "installed using <span class=\"application\">Tails Installer</span>. **The\n"
 "persistent storage on the USB stick will be preserved.**\n"
 msgstr ""
-"Entrambe le tecniche funzionano solo se il dispositivo aggiornato, chiave USB o scheda SD, è stato installato usando <span class=\"application\">Tails Installer</span>. **l'unità\n"
+"Entrambe le tecniche funzionano solo se la chiavetta USB aggiornata, è stata installata usando <span class=\"application\">Tails Installer</span>. **l'unità\n"
 " di memoria persistente sul dispositivo sarà preservata.**\n"
 
 #. type: Plain text
@@ -101,21 +96,16 @@ msgid "Automatic upgrade using <span class=\"application\">Tails Upgrader</span>
 msgstr "Aggiornamento automatico usando <span class=\"application\">Tails Upgrader</span>\n"
 
 #. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "After starting Tails and connecting to Tor, <span class=\"application\">Tails\n"
-#| "Upgrader</span> automatically checks if upgrades are available and then\n"
-#| "proposes you to upgrade your device. The upgrades are checked for and downloaded\n"
-#| "through Tor.\n"
+#, no-wrap
 msgid ""
 "After starting Tails and connecting to Tor, <span class=\"application\">Tails\n"
 "Upgrader</span> automatically checks if upgrades are available and then\n"
 "proposes you to upgrade your USB stick. The upgrades are checked for and downloaded\n"
 "through Tor.\n"
 msgstr ""
-"Dopo aver avviato Tails ed esserti connessa a Tor, <span class=\"application\">Tails\n"
+"Dopo aver avviato Tails ed esserti connesso a Tor, <span class=\"application\">Tails\n"
 " Upgrader</span> verifica automaticamente se ci sono aggiornamenti disponibili e poi\n"
-" ti propone di aggiornare il tuo dispositivo. Gli aggiornamenti sono cercati e scaricati\n"
+" ti propone di aggiornare il tuo dispositivo. Gli aggiornamenti sono controllati e scaricati\n"
 " attraverso Tor.\n"
 
 #. type: Plain text
@@ -123,17 +113,13 @@ msgid "The advantages of this technique are the following:"
 msgstr "I vantaggi di questa tecnica sono i seguenti:"
 
 #. type: Bullet: '  - '
-#, fuzzy
-#| msgid ""
-#| "You only need a single Tails device. The upgrade is done on the fly from "
-#| "a running Tails. After upgrading, you can restart and use the new version."
 msgid ""
 "You only need a single Tails USB stick. The upgrade is done on the fly from "
 "a running Tails. After upgrading, you can restart and use the new version."
 msgstr ""
-"Hai bisogno di un solo dispositivo Tails. L'aggiornamento è fatto al volo da "
-"un Tails avviato. Dopo l'aggiornamento, puoi riavviare e utilizzare la nuova "
-"versione."
+"Hai bisogno di un'unica chiavetta USB. L'aggiornamento è fatto al momento da "
+"un sistema Tails in esecuzione. Dopo l'aggiornamento, puoi riavviare e "
+"utilizzare la nuova versione."
 
 #. type: Bullet: '  - '
 msgid "The upgrade is much smaller to download than a full ISO image."
@@ -147,38 +133,30 @@ msgid ""
 "You don't have to verify the ISO image yourself anymore."
 msgstr ""
 "Il meccanismo di aggiornamento include una verifica crittografica "
-"dell'aggiornamento. Non devi più verificare da sola l'immagine ISO."
+"dell'aggiornamento. Non devi più verificare da solo l'immagine ISO."
 
 #. type: Plain text
 msgid "Requirements:"
 msgstr "Requisiti:"
 
 #. type: Bullet: '  - '
-#, fuzzy
-#| msgid ""
-#| "A Tails device, USB stick or SD card, installed using <span class="
-#| "\"application\">Tails Installer</span>."
 msgid ""
 "A Tails USB stick, installed using <span class=\"application\">Tails "
 "Installer</span>."
 msgstr ""
-"Un dispositivo Tails, chiave USB o scheda SD, installata usando <span class="
-"\"application\">Tails Installer</span>."
+"Un chiavetta USB, con Tails installato <span class=\"application\">Tails "
+"Installer</span>."
 
 #. type: Bullet: '  - '
 msgid "An Internet connection."
 msgstr "Una connessione a internet."
 
 #. type: Plain text
-#, fuzzy
-#| msgid ""
-#| "After connecting to Tor, if an upgrade is available, a dialog box appears "
-#| "and proposes you to upgrade your device."
 msgid ""
 "After connecting to Tor, if an upgrade is available, a dialog box appears "
 "and proposes you to upgrade your USB stick."
 msgstr ""
-"Dopo esserti connessa a Tor, se c'è un aggiornamento disponibile, comparirà "
+"Dopo esserti connesso a Tor, se c'è un aggiornamento disponibile, comparirà "
 "una finestra di dialogo che ti proporrà di aggiornare il tuo dispositivo."
 
 #. type: Plain text
@@ -200,7 +178,7 @@ msgstr ""
 "<ul>\n"
 "<li>Si raccomanda di chiudere tutte le applicazioni aperte durante\n"
 " l'aggiornamento.</li>\n"
-"<li>Scaricare l'aggiornamento può richiedere diverso tempo, da mlti minuti ad\n"
+"<li>Scaricare l'aggiornamento può richiedere diverso tempo, da molti minuti, fino ad\n"
 " alcune ore.</li>\n"
 "<li>La rete sarà disabilitata dopo aver scaricato l'aggiornamento.</li>\n"
 "</ul>\n"
@@ -243,7 +221,7 @@ msgid ""
 msgstr ""
 "<p>Se non puoi aggiornare all'avvio (ad esempio se non hai\n"
 " connessione di rete), puoi avviare <span class=\"application\">Tails\n"
-"Upgrader</span> più tardi aprendo un terminale ed eseguendo il seguente\n"
+"Upgrader</span> in seguito aprendo un terminale ed eseguendo il seguente\n"
 "comando:</p>\n"
 
 #. type: Plain text
@@ -254,7 +232,7 @@ msgstr "<pre>tails-upgrade-frontend-wrapper</pre>\n"
 #. type: Plain text
 #, no-wrap
 msgid "<p>We recommend you read the [[release notes|release_notes]] for the latest version. They document all the changes in this new version:</p>\n"
-msgstr ""
+msgstr "<p>Ti raccomandiamo di leggere le [[note di rilascio|release_notes]] relative alla versione più recente. Sono indicate tutte le modifiche effettuate in questa nuova versione:</p>\n"
 
 #. type: Plain text
 #, no-wrap
@@ -265,18 +243,23 @@ msgid ""
 "  <li>known issues that have already been identified</li>\n"
 "</ul>\n"
 msgstr ""
+"<ul>\n"
+"  <li>nuove funzionalità</li>\n"
+"  <li>problemi risolti</li>\n"
+"  <li>problemi noti, già identificati</li>\n"
+"</ul>\n"
 
 #. type: Plain text
 #, no-wrap
 msgid "<p>They might also contain <strong>special instructions for upgrading</strong>.</p>\n"
-msgstr "<p>Elas também podem contar <strong>instruções especiais para atualização</strong>.</p>\n"
+msgstr "<p>Potrebbero contenere anche <strong>istruzioni particolari relative all'aggiornamento</strong>.</p>\n"
 
 #. type: Plain text
 msgid ""
 "If an error occurs, the assistant proposes you to read one of the following "
 "pages:"
 msgstr ""
-"Se si verifica un errore, l'asistente ti proporrà di leggere uana delle "
+"Se si verifica un errore, l'assistente ti proporrà di leggere una delle "
 "seguenti pagine:"
 
 #. type: Bullet: '  - '
@@ -331,58 +314,40 @@ msgstr ""
 "versione."
 
 #. type: Bullet: '  - '
-#, fuzzy
-#| msgid ""
-#| "The automatic upgrade is impossible for technical reasons (not enough "
-#| "memory, not enough free space on the device, etc.)."
 msgid ""
 "The automatic upgrade is impossible for technical reasons (not enough "
 "memory, not enough free space on the USB stick, etc.)."
 msgstr ""
-"L'aggiornamento automatico è impossibile per ragioni tecniche (non c'è "
-"abbastanza memoria o sufficiente spazio libero sul dispositivo, etc.)."
+"L'aggiornamento automatico è impossibile per ragioni tecniche (memoria "
+"insufficiente o insufficiente spazio libero sulla chiavetta USB, etc.)."
 
 #. type: Bullet: '  - '
-#, fuzzy
-#| msgid ""
-#| "You want to upgrade from another Tails device which already has a newer "
-#| "version installed, for example when working offline."
 msgid ""
 "You want to upgrade from another Tails USB stick which already has a newer "
 "version installed, for example when working offline."
 msgstr ""
-"Vuoi aggiornare da un altro dispositivo Tails che ha già una nuova versione "
-"installata, per esempio lavorando offline."
+"Vuoi aggiornare da un'altra chiavetta Tails che ha già una nuova versione "
+"installata, per esempio quando lavori offline."
 
 #. type: Bullet: '  - '
-#, fuzzy
-#| msgid "The automatic upgrade failed and you need to repair a Tails device."
 msgid "The automatic upgrade failed and you need to repair a Tails USB stick."
 msgstr ""
-"L'aggiornamento automatico è fallito e devi riparare un dispositivo Tails."
+"L'aggiornamento automatico è fallito e devi riparare una chiavetta USB Tails."
 
 #. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "In that case, <span class=\"application\">Tails Installer</span> allows you to\n"
-#| "manually upgrade a USB stick or SD card to a newer version of Tails.\n"
+#, no-wrap
 msgid ""
 "In this case, <span class=\"application\">Tails Installer</span> allows you to\n"
 "manually upgrade a USB stick to a newer version of Tails.\n"
 "To do so, follow our [[manual upgrade instructions|/upgrade]].\n"
 msgstr ""
-"In quel caso, <span class=\"application\">Tails Installer</span> ti permette di\n"
-"aggiornare manualmente una chiave USB o una scheda SD a una nuova versione di Tails.\n"
+"In questo caso, <span class=\"application\">Tails Installer</span> ti permette di\n"
+"aggiornare manualmente una chiavetta USB ad una nuova versione di Tails.\n"
+"Per farlo, segui le nostre [[istruzioni per l'aggiornamento manuale|/upgrade]].\n"
+"\n"
 
 #. type: Plain text
-#, fuzzy, no-wrap
-#| msgid ""
-#| "To know the version of a running Tails, choose\n"
-#| "<span class=\"menuchoice\">\n"
-#| "  <span class=\"guimenu\">Applications</span>&nbsp;▸\n"
-#| "  <span class=\"guisubmenu\">Tails</span>&nbsp;▸\n"
-#| "  <span class=\"guimenuitem\">About Tails</span>\n"
-#| "</span>\n"
+#, no-wrap
 msgid ""
 "To know your version of Tails, choose\n"
 "<span class=\"menuchoice\">\n"
@@ -395,7 +360,7 @@ msgstr ""
 "<span class=\"Menu\">\n"
 "  <span class=\"guimenu\">Applicazioni</span>&nbsp;▸\n"
 "  <span class=\"guisubmenu\">Tails</span>&nbsp;▸\n"
-"  <span class=\"guimenuitem\">A proposito di  Tails</span>\n"
+"  <span class=\"guimenuitem\">A proposito di Tails</span>\n"
 "</span>\n"
 
 #~ msgid ""
