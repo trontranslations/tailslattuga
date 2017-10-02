@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-10-16 18:44+0300\n"
-"PO-Revision-Date: 2017-09-29 15:52+0000\n"
+"PO-Revision-Date: 2017-10-02 22:42+0000\n"
 "Last-Translator: \n"
 "Language-Team: ita <transitails@inventati.org>\n"
 "Language: it_IT\n"
@@ -40,7 +40,7 @@ msgid ""
 "Remember that **the more effectively you report a bug**, the more likely we "
 "are to fix it."
 msgstr ""
-"Ricorda che **piu' si segnala in modo efficace un bug**, e ci saranno più "
+"Ricorda che **più si segnala in modo efficace un bug**, maggiori saranno "
 "possibilità di risolverlo."
 
 #. type: Plain text
@@ -150,7 +150,7 @@ msgid ""
 "cases|bug_reporting#special_cases]].**\n"
 msgstr ""
 "**WhisperBack è una applicazione scritta specificatamente per segnalare bug in modo anonimo\n"
-"dentro Tails. Se non sei capace di usare WhisperBack, guarda [[casi \n"
+"dentro Tails. Se non sei in grado di usare WhisperBack, guarda [[casi \n"
 "speciali|bug_reporting#special_cases]].**\n"
 
 #. type: Plain text
@@ -159,7 +159,7 @@ msgid ""
 "details and send it to us encrypted and through Tor."
 msgstr ""
 "WhisperBack ti aiuterà a compilare il rapporto del bug, includendo rilevanti "
-"dettagli tecnici e lo invierà a noi cifrato attraverso Tor."
+"dettagli tecnici e lo invierà a noi cifrato e attraverso la rete Tor."
 
 #. type: Title -
 #, no-wrap
@@ -177,8 +177,8 @@ msgid ""
 msgstr ""
 "Per iniziare<span class=\"application\">WhisperBack</span>, scegli\n"
 "<span class=\"menuchoice\">\n"
-"  <span class=\"guimenu\">Applications</span>&nbsp;▸\n"
-"  <span class=\"guisubmenu\">System Tools</span>&nbsp;▸\n"
+"  <span class=\"guimenu\">Applicazioni</span>&nbsp;▸\n"
+"  <span class=\"guisubmenu\">Strumenti di sistema</span>&nbsp;▸\n"
 "  <span class=\"guimenuitem\">WhisperBack</span></span>.\n"
 
 #. type: Title -
@@ -222,7 +222,7 @@ msgid ""
 "your hardware, your version of Tails and the startup process.\n"
 msgstr ""
 "Potresti dare un occhiata anche ai <span class=\"guilabel\">dettagli tecnici\n"
-"da includere</span> nel tuo rapporto del bug. Questo potrebbe darci informazioni riguardo\n"
+"da includere</span> nel tuo rapporto del bug. Questo ci darà informazioni riguardo\n"
 "il tuo hardware, la tua versione di Tails e il processo di avvio.\n"
 
 #. type: Plain text
